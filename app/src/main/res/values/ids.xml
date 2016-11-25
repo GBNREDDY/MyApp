@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spyear" type="id"/>
+    <item name="spmonth" type="id"/>
+    <item name="spflat" type="id"/>
+    <item name="tv" type="id"/>
+    <item name="btnupdate" type="id"/>
+    <item name="btngetdetails" type="id"/>
+
+    <item name="tv2" type="id"/>
+</resources>

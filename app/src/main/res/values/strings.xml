@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="update">Update_Data</string>
+    <string name="getdata">Get_Data</string>
+    <string name="welcome_to_my_app">Welcome To My App</string>
+    <string name="my_seshadri">My Seshadri</string>
+</resources>
